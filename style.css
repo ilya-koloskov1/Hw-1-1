@@ -1,0 +1,125 @@
+body{
+	width: 1125px;
+	height: 1350px;
+	margin: 0 auto;
+	
+}
+
+#container{
+
+}
+
+#Header{
+height: 80px;
+
+}
+
+#Prechu{
+	width: 105px;
+	position: absolute;
+	padding-left: 180px;
+	display: flex;
+}
+.pict1 {
+	width: 45px;
+	height: 45px;
+	padding: 15px 10px 0 0;
+}
+
+#menu{
+	display: flex;
+	float:right;
+	width: 320px;
+	padding:35px 140px 0 0 ;
+}
+
+#home ,#Products,#Services,#Contact {
+margin-left: 27px;
+}
+
+#Section{
+height: 485px;
+background:url(Pict/bckr.JPG);
+color:white;
+
+}
+#Lorem {
+	float: right;
+	margin:125px 285px 0 0;
+	font-size: 20px;
+}
+#Lorem2{
+	width: 530px;
+}
+
+
+#button{
+	width: 160px;
+	height: 40px;
+	background: #5094f2;
+	text-align: center;
+	margin: 30px 0 0 10px;
+
+}
+
+a{
+	color:white;
+	text-decoration: none;
+	display: inline-block;
+	margin:5px;
+	
+}
+
+.pict2{
+   height: 410px;
+   margin: 25px 0 0 100px;
+   
+   
+}
+
+
+#Contary{
+height: 330px;
+display: flex;
+}
+
+#blc1 ,#blc2 ,#blc3 {
+	width: 412px;
+	text-align: center;
+	padding-top:30px;
+}
+.pict3 ,.pict4 ,.pict5{
+	width: 180px;
+	height: 180px;
+}
+
+h4 {
+	color:#a2a2a2;
+}
+
+#Shop{
+height: 360px;
+display: flex;
+}
+
+#Korz{
+	width: 500px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.pict6{
+	width: 350px;
+	height: 250px;
+	padding-left:30px;
+	
+}
+#Bullet{
+	width: 630px;
+	padding:40px 0 0 60px;
+}
+
+#Footer{
+	border-top: 1px solid #a2a2a2;
+	padding:35px 0 0 380px;
+}
